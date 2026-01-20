@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="./cute_cat.jpeg" width="30%">
+</p>
 
-<!--
-**UlisesChoco/UlisesChoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">hi, i'm ulises</h1>
+<h3 align="center">backend developer · software architecture · distributed systems</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+backend dev focused on building robust, scalable and well designed systems<br>
+i love software architecture, anime and chocomilk
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong><a href="https://github.com/UlisesChoco/Web-MMORPG">MMORPG Project</a></strong>
+</p>
