@@ -2,7 +2,7 @@
   <img src="./cute_cat.jpeg" width="30%">
 </p>
 
-<h1 align="center">hi, i'm ulises</h1>
+<h1 align="center">hi, i'm <a href="https://uliseschoco.github.io/chocomilk/">ulises</a></h1>
 <h3 align="center">backend developer · software architecture · distributed systems</h3>
 
 <p align="center">
@@ -11,5 +11,9 @@ i love software architecture, anime and chocomilk
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/UlisesChoco/Web-MMORPG">MMORPG Project</a></strong>
+  <strong>
+    <a href="https://github.com/UlisesChoco/Web-MMORPG">mmorpg project</a>
+    |
+    <a href="https://uliseschoco.github.io/chocomilk/">personal website</a>
+  </strong>
 </p>
